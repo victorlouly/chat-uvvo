@@ -1,0 +1,19 @@
+{
+  "name": "Chat Uvvo",
+  "short_name": "Chat Uvvo",
+  "icons": [{
+    "src": "/brand-assets/logo-v.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+   },
+   {
+    "src": "/brand-assets/logo-v.png",
+    "sizes": "512x512",
+    "type": "image/png"
+   }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f93ff",
+  "theme_color": "#1f93ff"
+}
